@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: Outrider Data: Words
+## Notes: English word list for Outrider's chat spell check (SCOWL/ESDB, see LICENSE.txt).
+## LoadOnDemand: 1
+
+Words.lua
