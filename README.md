@@ -16,6 +16,10 @@ Pick one. Each puts the same addon folders into `World of Warcraft\_forever_\Int
 
 Then start the game, log in and type `/ride`.
 
+## Found a problem or have an idea?
+
+In game: open `/ride`, then **Help**, then **Report or idea** (or type `/ride report`). Pick one, say it in your own words, press **Make my report**, copy the link and paste it in your web browser. It opens a GitHub issue with everything filled in; click **Submit**. You can also [open an issue here](https://github.com/LackOfSkillz/outrider-releases/issues/new/choose).
+
 ## Update
 Double-click **Update Outrider** on your desktop (WoW closed). Outrider also tells you in game when a newer build is out.
 
