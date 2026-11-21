@@ -5,12 +5,12 @@
 | Pack | License | Public standalone source in this repository |
 |---|---|---|
 | Outrider_Data_Words | English Speller Database (Kevin Atkinson), see pack LICENSE.txt | **Committed**: [Words](Outrider_Data_Words/) |
-| Outrider_Data_NPC | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Not yet committed** |
-| Outrider_Data_Gear | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Not yet committed** |
-| Outrider_Data_Mobs | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Not yet committed** |
-| Outrider_Data_Nodes | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Not yet committed** |
-| Outrider_Data_Dungeons | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Not yet committed** |
-| Outrider_Data_Quests | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Not yet committed** |
+| Outrider_Data_NPC | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Committed**: [Outrider_Data_NPC](Outrider_Data_NPC/) |
+| Outrider_Data_Gear | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Committed**: [Outrider_Data_Gear](Outrider_Data_Gear/) |
+| Outrider_Data_Mobs | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Committed**: [Outrider_Data_Mobs](Outrider_Data_Mobs/) |
+| Outrider_Data_Nodes | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Committed**: [Outrider_Data_Nodes](Outrider_Data_Nodes/) |
+| Outrider_Data_Dungeons | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Committed**: [Outrider_Data_Dungeons](Outrider_Data_Dungeons/) |
+| Outrider_Data_Quests | Derived from QuestieDB; GPLv3 with upstream historical-contributor caveat | **Committed**: [Outrider_Data_Quests](Outrider_Data_Quests/) |
 
 The November 17 [Outrider family release](https://github.com/LackOfSkillz/outrider-releases/releases/tag/build-20261117-0742) has a downloadable ZIP, but its contents have **not** been extracted and independently reviewed in this publication pass. It is not evidence that all current generator outputs have been committed to this source repository.
 

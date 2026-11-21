@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Outrider Data: herb and ore nodes (private)
+## Notes: Public GPLv3-derived copy node spawns from QuestieDB (GPLv3, see Outrider DECISIONS D10). Redistributed under GPLv3, subject to upstream rights.
+## LoadOnDemand: 1
+## X-Source: QuestieDB 0f7d8adc92b28ac6594f4ad8745257f4d9784edf
+
+Data.lua
