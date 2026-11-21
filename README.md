@@ -6,22 +6,51 @@
 
 Advice only: every cast, target, buy and craft is your own click or key press. Nothing leaves your PC; sharing is off until you switch it on. No other addon needed.
 
-## Install
+## How to install (5 minutes, Windows)
 
-Pick one. Each puts the same addon folders into `World of Warcraft\_forever_\Interface\AddOns`.
+You need World of Warcraft **Forever** installed and played at least once.
 
-1. **One-click installer (Windows):** close World of Warcraft, download **Install-Outrider.cmd** from the [newest release](https://github.com/LackOfSkillz/outrider-releases/releases/latest) and double-click it. It finds WoW Forever, backs up an older Outrider and installs it with all its data (if Windows warns, click **More info**, then **Run anyway**).
-2. **CurseForge app or WowUp:** search **Outrider** (coming soon: the CurseForge project is being set up).
-3. **By hand:** download the zip from the same release and unzip it straight into `_forever_\Interface\AddOns`, so you get `AddOns\Outrider`, `AddOns\Outrider_Data_Quests` and so on.
+**1. Close World of Warcraft** completely.
 
-Then start the game, log in and type `/ride`.
+**2. Download the installer:** click here: **[Download Install-Outrider](https://github.com/LackOfSkillz/outrider-releases/releases/latest/download/Install-Outrider.cmd)**
+
+Your browser may say the file *"isn't commonly downloaded"*. That's normal for a new file.
+- **Edge:** point at the download, click the **...** button, then **Keep**, then **Show more**, then **Keep anyway**.
+- **Chrome:** click **Keep** (or the arrow next to the download, then **Keep**).
+
+**3. Run it:** open your **Downloads** folder and double-click **Install-Outrider**.
+
+A blue box may say *"Windows protected your PC"*. Click **More info**, then **Run anyway**. (It says this about any program that isn't from a big company.)
+
+**4. Wait a few seconds.** A box says **Outrider is installed!** Click **OK**.
+
+- If it can't find World of Warcraft, it asks you to pick the **World of Warcraft** folder (usually `C:\Program Files (x86)\World of Warcraft`).
+- If WoW is still open, it asks you to close it and click **Retry**.
+
+**5. Start the game.** On the character screen, click **AddOns** (bottom left) and make sure **Outrider** is ticked. If you see **Load out of date AddOns**, tick that too. Then click **Okay**.
+
+**6. Log in and type `/ride`** (then press Enter). Outrider opens on **Home**, with your next step at the top.
+
+### Updates
+
+Close WoW and double-click **Update Outrider** on your desktop. That's it. Outrider also tells you in game when a newer version is out.
+
+### Something went wrong?
+
+| What you see | What to do |
+|---|---|
+| *"Windows wouldn't let the installer write to the WoW folder"* | Right-click **Install-Outrider**, choose **Run as administrator**. |
+| Outrider isn't in the AddOns list | Close WoW completely (not just log out) and start it again. |
+| Typing `/ride` does nothing | On the character screen, AddOns: tick **Outrider** and **Load out of date AddOns**. |
+
+### Other ways to install
+
+- **CurseForge app or WowUp:** search **Outrider Forever** (coming soon: the CurseForge project is waiting for approval).
+- **By hand:** download the zip from the [newest release](https://github.com/LackOfSkillz/outrider-releases/releases/latest) and unzip it straight into `World of Warcraft\_forever_\Interface\AddOns`, so you get `AddOns\Outrider`, `AddOns\Outrider_Data_Quests` and so on (not one folder deeper).
 
 ## Found a problem or have an idea?
 
 In game: open `/ride`, then **Help**, then **Report or idea** (or type `/ride report`). Pick one, say it in your own words, press **Make my report**, copy the link and paste it in your web browser. It opens a GitHub issue with everything filled in; click **Submit**. You can also [open an issue here](https://github.com/LackOfSkillz/outrider-releases/issues/new/choose).
-
-## Update
-Double-click **Update Outrider** on your desktop (WoW closed). Outrider also tells you in game when a newer build is out.
 
 ## Screenshots
 
