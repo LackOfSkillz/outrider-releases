@@ -14,6 +14,20 @@ Outrider looks at the character you're playing (class, race, level, talents, pro
 
 Your three talent trees on one screen, with researched builds for every class for levelling, max damage, max healing, tanking and PvP. Outrider estimates how each build does with *your* spells and marks its pick for you. Try any build, change points with the game's own rules, slide the level to see it as you grow, and press **Follow**: the game's talent window then lights up where your next point goes.
 
+## The auction house, done for you
+
+**Skill-ups:** the cheapest way to your next profession points, each recipe with what it costs per point and every reagent, bought in one click.
+
+![Auction house: skill-ups](https://raw.githubusercontent.com/LackOfSkillz/outrider-releases/main/docs/screenshots/auction-skillups.png)
+
+**Gear you can afford:** the best upgrade per slot that your gold covers, scored for your class and build, with Blizzard's comparison and Outrider's own rank in the tooltip.
+
+![Auction house: armor upgrades](https://raw.githubusercontent.com/LackOfSkillz/outrider-releases/main/docs/screenshots/auction-armor.png)
+
+**Deals in plain words:** what you pay, what it sells for again, and what you keep, with what you can't afford yet grayed out at the bottom.
+
+![Auction house: resale deals](https://raw.githubusercontent.com/LackOfSkillz/outrider-releases/main/docs/screenshots/auction-resale.png)
+
 ## Everything Outrider does
 
 ![Home](https://raw.githubusercontent.com/LackOfSkillz/outrider-releases/main/docs/screenshots/home.png)
