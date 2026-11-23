@@ -6,6 +6,8 @@
 
 Advice only: every cast, target, buy and craft is your own click or key press. Nothing leaves your PC; sharing is off until you switch it on. No other addon needed.
 
+**[Join us on Discord](https://discord.gg/NqsBsDPqy):** talk with other Outrider players, report bugs, ask for features and hear about new versions first.
+
 ## How to install (5 minutes, Windows)
 
 You need World of Warcraft **Forever** installed and played at least once.
