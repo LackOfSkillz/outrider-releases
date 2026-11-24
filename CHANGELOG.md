@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.7 (2026-11-23)
+
+- **Player names in chat are clickable again:** with class-coloured names on, some lines showed raw link text ("|Hplayer:Mia Starleaf:407:CHANNEL:1[Mia Starleaf]"). Outrider coloured the sender's name itself, and the game builds the clickable name from it, so the colour broke the link. Now the name is left alone and the game's own "colour names by class" chat option is switched on instead.
+
 ## 0.4.6 (2026-11-23)
 
 - **Gear sources: 11,164 items** (was 8,909). Dungeon bosses now point to the dungeon's entrance ("Lady Anacondra (Wailing Caverns, 37%)"), rares and quest givers use every Forever map spot ForeverDB has, quest rewards are named even when the giver's spot isn't known, and PvP vendors are named. GearQuest now knows 1,104 items we don't, and 704 of those have no source there either.
