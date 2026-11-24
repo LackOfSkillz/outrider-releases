@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Outrider Data: crafting ingredients
+## Notes: Where to get crafting ingredients, converted from QuestieDB (GPLv3, see LICENSE-DATA.txt).
+## LoadOnDemand: 1
+## X-Source: QuestieDB 0f7d8adc92b28ac6594f4ad8745257f4d9784edf
+
+Data.lua

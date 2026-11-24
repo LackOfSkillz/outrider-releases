@@ -1,6 +1,8 @@
 # Outrider_Data_NPC — provenance
 
-Data converted from [QuestieDB](https://github.com/Questie/QuestieDB) (QuestieDB 0f7d8adc92b28ac6594f4ad8745257f4d9784edf) using the matching converter in LackOfSkillz/OAR/tools. Published by Gary Mix with project modifications under GPLv3.
+Also built from [ForeverDB](https://github.com/foreverfraddons/forever-db) (GPLv3; its LICENSE-DATA.txt credits the WoW Forever client tables, AllTheThings (MIT), VMaNGOS, cMaNGOS, pfQuest (MIT), Shortest Path Forever (GPLv3) and Drop Tables (data CC BY-SA 4.0)), [AllTheThings](https://github.com/ATTWoWAddon/AllTheThings) (MIT) and the WoW Forever client tables (Blizzard Entertainment's game data, exported by wago.tools).
+
+Data converted from [QuestieDB](https://github.com/Questie/QuestieDB) (QuestieDB 0f7d8adc92b28ac6594f4ad8745257f4d9784edf + ForeverDB 2026-11-23 (641b78f3d45d8d2d)) using the matching converter in LackOfSkillz/OAR/tools. Published by Gary Mix with project modifications under GPLv3.
 
 The underlying Questie and QuestieDB data retains its original authors' copyright. See the upstream [LICENSE.md](https://github.com/Questie/QuestieDB/blob/master/LICENSE.md) and PROVENANCE.md; its maintainers disclose unresolved historic-contributor rights. Publication does not cure that uncertainty.
 

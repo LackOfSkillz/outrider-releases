@@ -2,6 +2,6 @@
 ## Title: Outrider Data: Gear sources (private)
 ## Notes: Public GPLv3-derived copy item sources from QuestieDB (GPLv3, see Outrider DECISIONS D10/D13). Redistributed under GPLv3, subject to upstream rights.
 ## LoadOnDemand: 1
-## X-Source: QuestieDB 0f7d8adc92b28ac6594f4ad8745257f4d9784edf
+## X-Source: QuestieDB 0f7d8adc92b28ac6594f4ad8745257f4d9784edf + ForeverDB 2026-11-23 (641b78f3d45d8d2d)
 
 Data.lua

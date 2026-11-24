@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Outrider Data: crafting
+## Notes: What each recipe makes, skill colours, reagents and where to learn it.
+## LoadOnDemand: 1
+## X-Source: WoW Forever client 1.60.1.71037 (wago.tools) + AllTheThings (MIT) + ForeverDB 2026-11-23 (641b78f3d45d8d2d)
+
+Data.lua

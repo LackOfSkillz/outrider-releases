@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Outrider Data: travel network
+## Notes: Flight paths, boats, zeppelins, docks and portals from ForeverDB / Shortest Path Forever (GPLv3).
+## LoadOnDemand: 1
+## X-Source: ForeverDB 2026-11-23 (641b78f3d45d8d2d)
+
+Data.lua
