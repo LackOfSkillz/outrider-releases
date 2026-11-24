@@ -23,6 +23,6 @@ Only fixed, allowlisted Lua/TOC files are published.
 | Outrider_Data_Paths | Outrider_Data_Paths.toc | 268 | 7ae578455840aa3a2f35a743471519e6934464d8587a4280b65b9c64e199764a |
 | Outrider_Data_Paths | Data.lua | 327768 | ddcec8d2b9d844726419af04d4c94df294b3afa75af0a9a62bad1e3089e5ab14 |
 | Outrider_Data_Travel | Outrider_Data_Travel.toc | 250 | 749d34d993ab348fb268a5033c24937400c5962a7d809e8fd3a256545ea52db5 |
-| Outrider_Data_Travel | Data.lua | 12840 | 3f80a7f5514db11008010d81a2f4062df537b7b2e46c8f1ec38fc7baa90a542c |
+| Outrider_Data_Travel | Data.lua | 33146 | 1a87a26678ee917876860b72cb403a043f4c9f74056642a54544c22d17efa021 |
 | Outrider_Data_Crafting | Outrider_Data_Crafting.toc | 285 | 7a2ec32dc12c268057b89539b7f4c9fa9ad79cb7f2a81dd19c622421690bfffb |
 | Outrider_Data_Crafting | Data.lua | 368759 | d265ba706b271924804781699aa589b985439b18547f067684d0a0d5ed02986e |
