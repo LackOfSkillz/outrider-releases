@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.6 (2026-11-23)
+
+- **Gear sources: 11,164 items** (was 8,909). Dungeon bosses now point to the dungeon's entrance ("Lady Anacondra (Wailing Caverns, 37%)"), rares and quest givers use every Forever map spot ForeverDB has, quest rewards are named even when the giver's spot isn't known, and PvP vendors are named. GearQuest now knows 1,104 items we don't, and 704 of those have no source there either.
+
 ## 0.4.5 (2026-11-23)
 
 - **Crafting knows what every recipe makes:** 2,329 recipes from WoW Forever's own client tables (what each makes, the skill to learn it, when it turns yellow and grey, and its reagents), and how each is learned from AllTheThings (trainer, recipe item or quest). The Professions page lists **Recipes to learn next** for your skill, with where to get each pattern (the vendor or the creature that drops it, and how far) and a Go button. The Gear page now includes crafted gear (1,351 items) when you have the profession: "made with Tailoring (skill 75)".
