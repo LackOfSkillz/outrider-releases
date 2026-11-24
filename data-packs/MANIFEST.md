@@ -9,7 +9,7 @@ Only fixed, allowlisted Lua/TOC files are published.
 | Outrider_Data_NPC | Outrider_Data_NPC.toc | 358 | 5d51205f93a3ea5b02c40b64731c17b8c3048be7fa752830fc3c71fcdd7ff45e |
 | Outrider_Data_NPC | Data.lua | 597062 | 88e0a6e11a90b07f7c9547319aaec195e0dd84a7c937e97d1d5caa2953b5d3e9 |
 | Outrider_Data_Gear | Outrider_Data_Gear.toc | 370 | 4df1aac2289591b2c57d90a4c8b8c91f77e334cd3ac3a82ab6a176799ddf1a92 |
-| Outrider_Data_Gear | Data.lua | 1199959 | 88688a5c30a8d4acb7afea731ec3257020bbe3a560682dbfbf738becd4208b72 |
+| Outrider_Data_Gear | Data.lua | 1581763 | 13124aecba2a048409bc181bbdde4a5d3f2a2af39b9704a98b4ce5d482f4b202 |
 | Outrider_Data_Mobs | Outrider_Data_Mobs.toc | 318 | 101adc56f2068be192cf7699f36284f6523139baeaeeff1c9ba040269850949c |
 | Outrider_Data_Mobs | Data.lua | 274138 | 99222060d09a03857faa5e6d11f85199ec0370f9694ac219d3060e2cdd2420f0 |
 | Outrider_Data_Nodes | Outrider_Data_Nodes.toc | 329 | 4b04885328c859b4215ce7681055477b1cb9a5cb4a33c1cccb9c8a83d5ee4e4e |
