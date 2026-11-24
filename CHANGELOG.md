@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.8 (2026-11-23)
+
+- **Bosses on dungeon maps:** inside a dungeon (or looking at its map), each boss that drops blue or better gear has a skull pin; hover it for its loot with drop chances, and wish-list items are marked. The game places the pins from each boss's spot inside the instance (230 bosses in 23 dungeons, from ForeverDB).
+- **Wish list alerts:** a pop-up when an item on your wish list is up for a roll, in a loot window, or dropped for someone; getting it is noted on the list.
+- **Dungeon run timer:** the clock starts when you enter a dungeon, each boss kill is a split ("Lady Anacondra down at 5:00, best 5:40"), and leaving ends the run with your time and personal best per dungeon.
+- **Unlock mode:** /ride unlock shows every Outrider piece you can move (the pop-up spot, fishing panel, info bar, quest tracker, heal bars) with a drag outline; /ride lock puts back what was hidden.
+- **Macros backdrop:** halved to 512x256 (2 MB pictures draw black on Forever).
+- **Fishing and Cooking show on the Professions page:** the game lists professions in five fixed slots, and Forever's archaeology slot is empty; Outrider stopped reading at that gap, so Fishing and Cooking (which come after it) were missed until you opened their window.
+- **Home painting shows again:** the two halves of the painting were 2 MB each and drew black on Forever (the 1 MB page headers drew fine). They are now cut to the band the banner shows, at 1 MB each.
+
 ## 0.4.7 (2026-11-23)
 
 - **Player names in chat are clickable again:** with class-coloured names on, some lines showed raw link text ("|Hplayer:Mia Starleaf:407:CHANNEL:1[Mia Starleaf]"). Outrider coloured the sender's name itself, and the game builds the clickable name from it, so the colour broke the link. Now the name is left alone and the game's own "colour names by class" chat option is switched on instead.
