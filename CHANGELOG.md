@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.4.5 (2026-11-23)
+
+- **Crafting knows what every recipe makes:** 2,329 recipes from WoW Forever's own client tables (what each makes, the skill to learn it, when it turns yellow and grey, and its reagents), and how each is learned from AllTheThings (trainer, recipe item or quest). The Professions page lists **Recipes to learn next** for your skill, with where to get each pattern (the vendor or the creature that drops it, and how far) and a Go button. The Gear page now includes crafted gear (1,351 items) when you have the profession: "made with Tailoring (skill 75)".
+- **Windows always fit the screen:** with Larger windows on, the main window was scaled past the bottom of the screen, resize grip and all. It now shrinks to fit, any other window that's too big is scaled down, and one hanging off an edge comes back to the middle.
+- **Smarter trip planner:** flights follow the real flight legs between flight points you know, with their real flight times (no more straight-line guesses, and no flight between two points that aren't connected). Boats and zeppelins use their timetables: the time counts the average wait at the dock plus the crossing, and the step says how often it leaves and how long the trip takes. Exact dock spots, the Darnassus portals and the Thunder Bluff lifts are in too. All from Shortest Path Forever via ForeverDB (GPLv3), in a new data addon, Outrider_Data_Travel.
+- **Herbalism page filled in:** "How to raise it" was empty (two empty lists sat on top of the text). It now says which herbs fit your skill and lists each with its closest spot and a Go button, newest herb first.
+- **Gear page stands on its own without GearQuest:** when your zone has few upgrades, the best one per slot from other zones is added (your continent first), each with where it is and a waypoint. No pop-up for those.
+- **Far more gear knows where it comes from:** 8,909 items (was 2,954), from QuestieDB plus ForeverDB (a GPLv3 merge of WoW Forever's own client tables, AllTheThings, VMaNGOS, cMaNGOS and loot counts recorded on Forever). New: dungeon and raid boss drops (the waypoint is the entrance), rare creatures, chests, world drops ("world drop from creatures level 38 and up"), drop chances on the card ("Defias Pillager (2.4%)"), and Forever's own vendors and quest rewards. Gear you can craft with your own learned recipes is listed too ("you can make it with Tailoring").
+- **NPC spots trued up to WoW Forever:** vendors, trainers and quest givers use ForeverDB's Forever positions where they differ (95 moved, 7 added). Checked against 203 spots Outrider recorded in game: 3%+ off went from 4 to 2.
+- **The way-there dots only follow verified ground:** dots are drawn only on ground someone really walked (your trails, shipped trails, creature patrols), and only when it reaches the destination. No more straight lines across hills and cliffs; with no walked way yet there are no dots and the arrow still points. The dots are bigger with a dark rim, so they show on any ground.
+
 ## 0.4.4 (2026-11-23)
 
 - **Unexplored map areas** show with a faint blue-grey tint, so you can tell them from land you've explored (they looked the same).
